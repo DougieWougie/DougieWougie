@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DougieWougie
 - 👀 I’m interested in electronics, programming and maths
-- 🌱 I’m currently learning Gaidlaigh
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about Data Analysis and working towards Microsoft Azure Data Fundamentals (DP-900) and Microsoft Data Associate (DA-100) certifications!
+- 💞️ I’m looking to collaborate on Open Source projects to improve my Python skills and keep my Java skills up.
 - 📫 How to reach me @DougieWougie on Twitter or dougie@dougiewougie.com
 
 <!---
