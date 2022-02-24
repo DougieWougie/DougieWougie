@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dougie
-- 👀 I’m interested in electronics, programming and maths
-- 🌱 I’m currently learning about Data Analysis and working towards Microsoft Azure Data Fundamentals (DP-900) and Microsoft Data Associate (DA-100) certifications!
-- 💞️ I’m looking to collaborate on Open Source projects to improve my Python skills and keep my Java skills up.
+- 👋 Hi, I’m Dougie (Dʊgie)
+- 👀 I’m interested in programming, maths, training, documentation, and mentoring.
+- 🌱 I’m currently learning about Data Analysis and working towards Microsoft Data Associate (DA-100) certification!
+- 💞️ I’m looking to collaborate on Open Source projects to build experience and make the transition from education to practical application.
 - 📫 How to reach me @DougieWougie on Twitter
 
 <!---
