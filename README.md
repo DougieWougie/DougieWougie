@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dougie (Dʊgie)
-- 👀 I’m interested in programming, maths, training, documentation, and mentoring.
-- 🌱 I’m currently learning about Data Analysis and working towards Microsoft Data Associate (DA-100) certification!
+- 👀 I’m interested in programming, maths, data analysis, training, documentation, and mentoring.
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on Open Source projects to build experience and make the transition from education to practical application.
 - 📫 How to reach me @DougieWougie on Twitter
 
