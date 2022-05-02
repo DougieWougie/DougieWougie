@@ -1,9 +1,17 @@
 [![Twitter: DougieWougie](https://img.shields.io/twitter/follow/DougieWougie?logo=twitter&style=for-the-badge)](https://twitter.com/DougieWougie)
 [![Discord: DougieWougie](https://img.shields.io/discord/970648245426593852?logo=discord&style=for-the-badge)](https://discord.com/widget?id=970648245426593852&theme=dark)
 
-<img height="150" align="right" alt="STA" src="https://images.squarespace-cdn.com/content/v1/5e98651eeb6c5049f0d0cad4/1587375053728-HH7PUTT23XUHJVNJGHRL/Long+Format.png?format=1500w"/>
+<a href="(https://www.scottishtecharmy.org/)"><img height="125" align="right" alt="STA" src="https://images.squarespace-cdn.com/content/v1/5e98651eeb6c5049f0d0cad4/1587375053728-HH7PUTT23XUHJVNJGHRL/Long+Format.png?format=1500w"/></a>
 
 Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an analyst from Scotland󠁧󠁢󠁳󠁣󠁴󠁿.  Focussed on App Development and Deployment, I'm helping as a volunteer with [Scottish Tech Army](https://www.scottishtecharmy.org/).
+
+Completed BSc (Hons) Computing and IT with [The Open University](https://www.open.ac.uk) in 2018. A broad computing degree, specialising in software engineering with Java and Python. Focussed on the causes of success and failure in projects to manage risk and exploit opportunity.
+
+Now looking to consolidate and contextualise learning by working with Open Source projects.
+- 👀 Interested in programming, maths, and data analysis.
+- 🌱 Learning React Native and Amplify.
+- 💞️ Contextualise, build experience, and transition to a new career.
+- 📫 me@dougiewougie.com
 
 ## Languages and platforms
 <span>
@@ -19,11 +27,7 @@ Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an analyst from Scot
   <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 </span>
 
-## Interests
-- 👀 Interested in programming, maths, and data analysis.
-- 🌱 Learning React Native and Amplify.
-- 💞️ Contextualise, build experience, and transition to a new career.
-- 📫 me@dougiewougie.com
+
 <!---
 DougieWougie/DougieWougie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
