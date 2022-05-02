@@ -1,16 +1,9 @@
-<span>
-  <a href="https://discord.gg/XEgTRSrS">
-    <img height="32" alt="Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  <a href="https://twitter.com/dougiewougie">
-    <img height="32" alt="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/dougie-richardson/">
-    <img align="left" alt="LInkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</span>
-<br />
-Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an analyst from Scotland. Currently focussing on App Development and Deployment, helping as a volunteer with Scottish Tech Army.
+[![Twitter: DougieWougie](https://img.shields.io/twitter/follow/DougieWougie?logo=twitter&style=for-the-badge)](https://twitter.com/DougieWougie)
+[![Discord: DougieWougie](https://img.shields.io/discord/970648245426593852?logo=discord&style=for-the-badge)](https://discord.com/widget?id=970648245426593852&theme=dark)
+
+<img height="150" align="right" alt="STA" src="https://images.squarespace-cdn.com/content/v1/5e98651eeb6c5049f0d0cad4/1587375053728-HH7PUTT23XUHJVNJGHRL/Long+Format.png?format=1500w"/>
+Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an analyst from Scotland󠁧󠁢󠁳󠁣󠁴󠁿.  Focussed on App Development and Deployment, I'm helping as a volunteer with [Scottish Tech Army](https://www.scottishtecharmy.org/).
+
 ## Languages and platforms
 <span>
   <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
