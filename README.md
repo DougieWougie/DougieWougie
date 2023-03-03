@@ -8,8 +8,6 @@ Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an Avionics Technici
 
 <!--[![Volunteers Assemble!](https://img.youtube.com/vi/drFMCf0ZXJ0/0.jpg)](https://www.youtube.com/watch?v=drFMCf0ZXJ0)-->
 
-Completed BSc (Hons) Computing and IT with [The Open University](https://www.open.ac.uk) in 2018. A broad computing degree, specialising in software engineering with Java and Python. Focussed on the causes of success and failure in projects to manage risk and exploit opportunity.
-
 <span>
   <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   <img height="24" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
