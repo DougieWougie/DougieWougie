@@ -2,7 +2,7 @@
   <img height="75" align="right" alt="STA" src="https://images.squarespace-cdn.com/content/v1/5e98651eeb6c5049f0d0cad4/1587375053728-HH7PUTT23XUHJVNJGHRL/Long+Format.png?format=1500w"/>
 </a>
 
-Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an Avionics Technician from Scotland󠁧󠁢󠁳󠁣󠁴󠁿 working as a Training Analyst.  Focussed on App Development and Deployment, I'm helping as a volunteer with [Scottish Tech Army](https://www.scottishtecharmy.org/).
+Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), a Cloud Engineer from Scotland󠁧󠁢󠁳󠁣󠁴󠁿.  Focussed on App Development and Deployment, I volunteer with [Scottish Tech Army](https://www.scottishtecharmy.org/).
 
 > Get an idea of what STA does with the [Volunteers Assemble!](https://youtu.be/drFMCf0ZXJ0) challenge from the Tech for Good Summit 2022!
 
@@ -21,6 +21,7 @@ Hi I’m [Dougie](https://blog.dougiewougie.com) (Dʊ-gie), an Avionics Technici
 <!---
 DougieWougie/DougieWougie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougiewougie&show_icons=true&theme=radical&hide=stars,)
+--->
